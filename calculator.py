@@ -1,4 +1,5 @@
 # Калькулятор геометрических вычислений
+# Новый комментарий
 import math
 
 def calculate_hypotenuse(a, b):
